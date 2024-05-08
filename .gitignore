@@ -1,0 +1,17 @@
+*.pyc            
+__pycache__/   
+venv/          
+
+.vscode/     
+.dockerignore
+docker-compose.yml
+Dockerfile
+*.sql
+
+lib/
+lib64/
+include/
+bin/
+pip-selfcheck.json
+
+.DS_Store     
