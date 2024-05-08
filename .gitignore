@@ -1,7 +1,8 @@
 *.pyc            
 __pycache__/   
-venv/          
-
+.venv/          
+.env
+data/
 .vscode/     
 .dockerignore
 docker-compose.yml
