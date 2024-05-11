@@ -12,3 +12,17 @@ INFO:root:Coefficients: [0.5 0.5]
 INFO:root:Intercept: -7.275957614183426e-12
 INFO:root:End Time: 2024-05-11 18:44:02.550612
 INFO:root:Total Execution Time: 0:00:04.545028
+INFO:root:Code Version: v1.0
+INFO:root:Start Time: 2024-05-11 21:30:29.030836
+INFO:root:Model parameters:
+INFO:root:Coefficients: [0.5 0.5]
+INFO:root:Intercept: -7.275957614183426e-12
+INFO:root:End Time: 2024-05-11 21:30:32.967431
+INFO:root:Total Execution Time: 0:00:03.936595
+INFO:root:Code Version: v1.0
+INFO:root:Start Time: 2024-05-11 22:48:01.987220
+INFO:root:Model parameters:
+INFO:root:Coefficients: [0.5 0.5]
+INFO:root:Intercept: -7.275957614183426e-12
+INFO:root:End Time: 2024-05-11 22:48:02.965265
+INFO:root:Total Execution Time: 0:00:00.978045
